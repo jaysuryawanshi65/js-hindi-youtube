@@ -14,3 +14,8 @@ let state = null
 // boolean => true/false
 // null => standalone value
 // undefined =>
+// symbol => unique
+
+// object
+
+console.log(typeof "jay");
